@@ -9,6 +9,9 @@ npm run dev
 # or
 yarn dev
 ```
+Create an .env file
+add entry like below
+MONGO_URI=mongodb+srv://xxx:xxxx@xxxxx.e1gxunm.mongodb.net/?retryWrites=true&w=majority
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
